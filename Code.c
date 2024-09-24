@@ -1,4 +1,4 @@
-Code to control through Blynk :
+.Code to control through Blynk :
 
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
